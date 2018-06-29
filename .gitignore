@@ -2,13 +2,14 @@
 # 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
 ################################################################################
 
-/.NET 高级开发系列/MyGeneric/.vs/MyGeneric/v15
-/.NET 高级开发系列/MyGeneric/MyGeneric/bin/Debug
-/.NET 高级开发系列/MyGeneric/MyGeneric/obj/Debug
-/.NET 高级开发系列/MyReflection/.vs/MyReflection/v15
-/.NET 高级开发系列/MyReflection/MyReflection/bin/Debug
-/.NET 高级开发系列/MyReflection/MyReflection/obj/Debug
-/.NET 高级开发系列/MyReflection/MyReflection.Model/bin/Debug
-/.NET 高级开发系列/MyReflection/MyReflection.Model/obj/Debug
-/ASP.NET Core 系列/基础知识/MyApp.Web.Host/.vs/MyApp.Web.Host/v15
+/.NET 高级开发系列/MyGeneric/.vs
+/.NET 高级开发系列/MyGeneric/MyGeneric/bin
+/.NET 高级开发系列/MyGeneric/MyGeneric/obj
+/.NET 高级开发系列/MyReflection/.vs
+/.NET 高级开发系列/MyReflection/MyReflection/bin
+/.NET 高级开发系列/MyReflection/MyReflection/obj
+/.NET 高级开发系列/MyReflection/MyReflection.Model/bin
+/.NET 高级开发系列/MyReflection/MyReflection.Model/obj
+/ASP.NET Core 系列/基础知识/MyApp.Web.Host/.vs
+/ASP.NET Core 系列/基础知识/MyApp.Web.Host/MyApp.Web.Host/bin
 /ASP.NET Core 系列/基础知识/MyApp.Web.Host/MyApp.Web.Host/obj
