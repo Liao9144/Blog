@@ -6,3 +6,4 @@
 
 ## ASP.NET Core 系列
 1. [RESTful API](https://github.com/Liao9144/Blog/issues/1)
+2. [基础知识](https://github.com/Liao9144/Blog/issues/4)
